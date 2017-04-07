@@ -219,14 +219,14 @@ public:
 main()
 {
     a ob;
-  ob.create();
-  ob.insatany();
-  ob.ins_sorted();
-  ob.delatany();
-  ob.count_ele();
-  ob.delafter();
+  ob.create();        //creation of list
+  ob.insatany();      // insertion at any node
+  ob.ins_sorted();      //insertion in a sorted list
+  ob.delatany();       //deletion of any given node
+  ob.count_ele();     // counting elements of list
+  ob.delafter();     
   ob.del_given_ele();
-  ob.sort_();
-    ob.show();
+  ob.sort_();             //sorting of list
+    ob.show();             // printing list
 
 }
