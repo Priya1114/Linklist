@@ -1,6 +1,8 @@
 # Linklist
 
-This Repo Consists of C++ Code of various operations performed on Singley Linklist.
+This Repo Consists of C++ Code of various operations performed on Singley Linklist like Insertion,Deletion,searching etc.
+
+Code Consists of Seprate Functions for each Operation,Hence Maintaining the modularity of code.
 
 ##Uses:
 1.Download or Clone the Repository.
